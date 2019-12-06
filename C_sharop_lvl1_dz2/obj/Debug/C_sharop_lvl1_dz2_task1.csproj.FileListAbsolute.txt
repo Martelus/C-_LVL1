@@ -1,0 +1,6 @@
+H:\C#\Projects\C_sharp_LVL1_lesson_2\C_sharop_lvl1_dz2\obj\Debug\C_sharop_lvl1_dz2_task1.csprojAssemblyReference.cache
+H:\C#\Projects\C_sharp_LVL1_lesson_2\C_sharop_lvl1_dz2\bin\Debug\C_sharop_lvl1_dz2.exe.config
+H:\C#\Projects\C_sharp_LVL1_lesson_2\C_sharop_lvl1_dz2\bin\Debug\C_sharop_lvl1_dz2.exe
+H:\C#\Projects\C_sharp_LVL1_lesson_2\C_sharop_lvl1_dz2\bin\Debug\C_sharop_lvl1_dz2.pdb
+H:\C#\Projects\C_sharp_LVL1_lesson_2\C_sharop_lvl1_dz2\obj\Debug\C_sharop_lvl1_dz2.exe
+H:\C#\Projects\C_sharp_LVL1_lesson_2\C_sharop_lvl1_dz2\obj\Debug\C_sharop_lvl1_dz2.pdb

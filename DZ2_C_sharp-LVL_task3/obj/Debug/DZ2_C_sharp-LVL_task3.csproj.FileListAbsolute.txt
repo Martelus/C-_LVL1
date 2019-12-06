@@ -1,0 +1,6 @@
+H:\C#\Projects\C_sharp_LVL1_lesson_2\DZ2_C_sharp-LVL_task3\obj\Debug\DZ2_C_sharp-LVL_task3.csprojAssemblyReference.cache
+H:\C#\Projects\C_sharp_LVL1_lesson_2\DZ2_C_sharp-LVL_task3\bin\Debug\DZ2_C_sharp-LVL_task3.exe.config
+H:\C#\Projects\C_sharp_LVL1_lesson_2\DZ2_C_sharp-LVL_task3\bin\Debug\DZ2_C_sharp-LVL_task3.exe
+H:\C#\Projects\C_sharp_LVL1_lesson_2\DZ2_C_sharp-LVL_task3\bin\Debug\DZ2_C_sharp-LVL_task3.pdb
+H:\C#\Projects\C_sharp_LVL1_lesson_2\DZ2_C_sharp-LVL_task3\obj\Debug\DZ2_C_sharp-LVL_task3.exe
+H:\C#\Projects\C_sharp_LVL1_lesson_2\DZ2_C_sharp-LVL_task3\obj\Debug\DZ2_C_sharp-LVL_task3.pdb

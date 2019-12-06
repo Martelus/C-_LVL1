@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_C_sharop_lvl1_task1", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ2_C_sharp_LVL1_task2", "DZ2_C_sharp_task2\DZ2_C_sharp_LVL1_task2.csproj", "{6BCCA64F-C9F3-44BE-A808-1172D6B0B670}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ2_C_sharp-LVL_task3", "DZ2_C_sharp-LVL_task3\DZ2_C_sharp-LVL_task3.csproj", "{11739351-C84D-4E78-9625-0BAF9B0DB2B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ2_C_sharp_lvl1_task3", "DZ2_C_sharp-LVL_task3\DZ2_C_sharp_lvl1_task3.csproj", "{11739351-C84D-4E78-9625-0BAF9B0DB2B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ2_C_sharp_lvl1_task4", "DZ2_c_sharp_lvl1_task4\DZ2_C_sharp_lvl1_task4.csproj", "{807B33A0-CFC0-451E-90D6-2D2B24240DC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{11739351-C84D-4E78-9625-0BAF9B0DB2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11739351-C84D-4E78-9625-0BAF9B0DB2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11739351-C84D-4E78-9625-0BAF9B0DB2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807B33A0-CFC0-451E-90D6-2D2B24240DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807B33A0-CFC0-451E-90D6-2D2B24240DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807B33A0-CFC0-451E-90D6-2D2B24240DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807B33A0-CFC0-451E-90D6-2D2B24240DC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
